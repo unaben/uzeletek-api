@@ -1,0 +1,51 @@
+[
+  {
+    "uzletid": "U001",
+    "unev": "TechPont",
+    "cim": "1132 Budapest, Váci út 10.",
+    "funkcio": "Elektronika",
+    "logourl": "img/pixel-pont.png"
+  },
+  {
+    "uzletid": "U002",
+    "unev": "ZöldSziget",
+    "cim": "1172 Szeged, Kárász utca 5.",
+    "funkcio": "Zöldséges",
+    "logourl": "img/friss-kosar.png"
+  },
+  {
+    "uzletid": "U003",
+    "unev": "FashionMix",
+    "cim": "1121 Pécs, Király utca 18.",
+    "funkcio": "Ruházat",
+    "logourl": "img/belvarosi-trend.png"
+  },
+  {
+    "uzletid": "U004",
+    "unev": "PapírVilág",
+    "cim": "1051 Győr, Baross út 22.",
+    "funkcio": "Papír-írószer",
+    "logourl": "img/toll-es-papir.png"
+  },
+  {
+    "uzletid": "U005",
+    "unev": "FoodMarket",
+    "cim": "1024 Debrecen, Piac utca 12.",
+    "funkcio": "Élelmiszer",
+    "logourl": "img/otthon-abc.png"
+  },
+  {
+    "uzletid": "U006",
+    "unev": "VitaPatika",
+    "cim": "1052 Budapest, Petőfi Sándor u. 8.",
+    "funkcio": "Gyógyszertár",
+    "logourl": "img/orangyal-patika.png"
+  },
+  {
+    "uzletid": "U007",
+    "unev": "FrissPék",
+    "cim": "1180 Kecskemét, Rákóczi út 15.",
+    "funkcio": "Pékség",
+    "logourl": "img/budai-pekseg.png"
+  }
+]

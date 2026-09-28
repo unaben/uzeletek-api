@@ -1,0 +1,212 @@
+[
+  {
+    "uzletid": "U001",
+    "nap": "hétfő",
+    "nyitas": "08:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U001",
+    "nap": "kedd",
+    "nyitas": "08:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U001",
+    "nap": "szerda",
+    "nyitas": "08:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U001",
+    "nap": "csütörtök",
+    "nyitas": "08:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U001",
+    "nap": "péntek",
+    "nyitas": "08:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U002",
+    "nap": "hétfő",
+    "nyitas": "07:00:00",
+    "zaras": "17:00:00"
+  },
+  {
+    "uzletid": "U002",
+    "nap": "kedd",
+    "nyitas": "07:00:00",
+    "zaras": "17:00:00"
+  },
+  {
+    "uzletid": "U002",
+    "nap": "szerda",
+    "nyitas": "07:00:00",
+    "zaras": "17:00:00"
+  },
+  {
+    "uzletid": "U002",
+    "nap": "csütörtök",
+    "nyitas": "07:00:00",
+    "zaras": "17:00:00"
+  },
+  {
+    "uzletid": "U002",
+    "nap": "péntek",
+    "nyitas": "07:00:00",
+    "zaras": "17:00:00"
+  },
+  {
+    "uzletid": "U003",
+    "nap": "hétfő",
+    "nyitas": "10:00:00",
+    "zaras": "20:00:00"
+  },
+  {
+    "uzletid": "U003",
+    "nap": "kedd",
+    "nyitas": "10:00:00",
+    "zaras": "20:00:00"
+  },
+  {
+    "uzletid": "U003",
+    "nap": "szerda",
+    "nyitas": "10:00:00",
+    "zaras": "20:00:00"
+  },
+  {
+    "uzletid": "U003",
+    "nap": "csütörtök",
+    "nyitas": "10:00:00",
+    "zaras": "20:00:00"
+  },
+  {
+    "uzletid": "U003",
+    "nap": "péntek",
+    "nyitas": "10:00:00",
+    "zaras": "20:00:00"
+  },
+  {
+    "uzletid": "U004",
+    "nap": "hétfő",
+    "nyitas": "08:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U004",
+    "nap": "kedd",
+    "nyitas": "08:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U004",
+    "nap": "szerda",
+    "nyitas": "08:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U004",
+    "nap": "csütörtök",
+    "nyitas": "08:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U004",
+    "nap": "péntek",
+    "nyitas": "08:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U005",
+    "nap": "hétfő",
+    "nyitas": "07:00:00",
+    "zaras": "21:00:00"
+  },
+  {
+    "uzletid": "U005",
+    "nap": "kedd",
+    "nyitas": "07:00:00",
+    "zaras": "21:00:00"
+  },
+  {
+    "uzletid": "U005",
+    "nap": "szerda",
+    "nyitas": "07:00:00",
+    "zaras": "21:00:00"
+  },
+  {
+    "uzletid": "U005",
+    "nap": "csütörtök",
+    "nyitas": "07:00:00",
+    "zaras": "21:00:00"
+  },
+  {
+    "uzletid": "U005",
+    "nap": "péntek",
+    "nyitas": "07:00:00",
+    "zaras": "21:00:00"
+  },
+  {
+    "uzletid": "U006",
+    "nap": "hétfő",
+    "nyitas": "08:00:00",
+    "zaras": "20:00:00"
+  },
+  {
+    "uzletid": "U006",
+    "nap": "kedd",
+    "nyitas": "08:00:00",
+    "zaras": "20:00:00"
+  },
+  {
+    "uzletid": "U006",
+    "nap": "szerda",
+    "nyitas": "08:00:00",
+    "zaras": "20:00:00"
+  },
+  {
+    "uzletid": "U006",
+    "nap": "csütörtök",
+    "nyitas": "08:00:00",
+    "zaras": "20:00:00"
+  },
+  {
+    "uzletid": "U006",
+    "nap": "péntek",
+    "nyitas": "08:00:00",
+    "zaras": "20:00:00"
+  },
+  {
+    "uzletid": "U007",
+    "nap": "hétfő",
+    "nyitas": "06:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U007",
+    "nap": "kedd",
+    "nyitas": "06:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U007",
+    "nap": "szerda",
+    "nyitas": "06:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U007",
+    "nap": "csütörtök",
+    "nyitas": "06:00:00",
+    "zaras": "18:00:00"
+  },
+  {
+    "uzletid": "U007",
+    "nap": "péntek",
+    "nyitas": "06:00:00",
+    "zaras": "18:00:00"
+  }
+]

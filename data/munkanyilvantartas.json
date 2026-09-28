@@ -1,0 +1,86 @@
+[
+  {
+    "dolgozoid": 1,
+    "uzletid": "U001",
+    "nap": "hétfő",
+    "kezdes": "08:00:00",
+    "befejezes": "16:00:00"
+  },
+  {
+    "dolgozoid": 1,
+    "uzletid": "U001",
+    "nap": "kedd",
+    "kezdes": "08:00:00",
+    "befejezes": "16:00:00"
+  },
+  {
+    "dolgozoid": 2,
+    "uzletid": "U002",
+    "nap": "hétfő",
+    "kezdes": "07:00:00",
+    "befejezes": "15:00:00"
+  },
+  {
+    "dolgozoid": 2,
+    "uzletid": "U002",
+    "nap": "kedd",
+    "kezdes": "07:00:00",
+    "befejezes": "15:00:00"
+  },
+  {
+    "dolgozoid": 3,
+    "uzletid": "U003",
+    "nap": "szerda",
+    "kezdes": "10:00:00",
+    "befejezes": "18:00:00"
+  },
+  {
+    "dolgozoid": 4,
+    "uzletid": "U004",
+    "nap": "csütörtök",
+    "kezdes": "08:00:00",
+    "befejezes": "16:00:00"
+  },
+  {
+    "dolgozoid": 5,
+    "uzletid": "U005",
+    "nap": "péntek",
+    "kezdes": "07:00:00",
+    "befejezes": "15:00:00"
+  },
+  {
+    "dolgozoid": 6,
+    "uzletid": "U001",
+    "nap": "szerda",
+    "kezdes": "12:00:00",
+    "befejezes": "20:00:00"
+  },
+  {
+    "dolgozoid": 7,
+    "uzletid": "U003",
+    "nap": "hétfő",
+    "kezdes": "10:00:00",
+    "befejezes": "18:00:00"
+  },
+  {
+    "dolgozoid": 8,
+    "uzletid": "U004",
+    "nap": "péntek",
+    "kezdes": "09:00:00",
+    "befejezes": "17:00:00"
+  },
+  {
+    "dolgozoid": 9,
+    "uzletid": "U006",
+    "nap": "hétfő",
+    "kezdes": "08:00:00",
+    "befejezes": "16:00:00"
+  },
+  {
+    "dolgozoid": 10,
+    "uzletid": "U007",
+    "nap": "kedd",
+    "kezdes": "06:00:00",
+    "befejezes": "14:00:00"
+  }
+]

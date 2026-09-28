@@ -1,0 +1,82 @@
+[
+  {
+    "dolgozoid": 1,
+    "dnev": "Kovács Péter",
+    "szuldatum": "1990-05-12",
+    "belepesdatum": "2020-01-15",
+    "oraber": 3500,
+    "neme": "1"
+  },
+  {
+    "dolgozoid": 2,
+    "dnev": "Nagy Anna",
+    "szuldatum": "1995-11-08",
+    "belepesdatum": "2021-06-01",
+    "oraber": 3400,
+    "neme": "2"
+  },
+  {
+    "dolgozoid": 3,
+    "dnev": "Tóth Balázs",
+    "szuldatum": "1988-03-22",
+    "belepesdatum": "2019-09-10",
+    "oraber": 3800,
+    "neme": "1"
+  },
+  {
+    "dolgozoid": 4,
+    "dnev": "Szabó Petra",
+    "szuldatum": "1997-07-30",
+    "belepesdatum": "2022-02-14",
+    "oraber": 3200,
+    "neme": "2"
+  },
+  {
+    "dolgozoid": 5,
+    "dnev": "Varga Zoltán",
+    "szuldatum": "1992-12-01",
+    "belepesdatum": "2021-03-10",
+    "oraber": 3600,
+    "neme": "1"
+  },
+  {
+    "dolgozoid": 6,
+    "dnev": "Kiss Réka",
+    "szuldatum": "1998-06-15",
+    "belepesdatum": "2023-01-09",
+    "oraber": 3300,
+    "neme": "2"
+  },
+  {
+    "dolgozoid": 7,
+    "dnev": "Horváth Gergő",
+    "szuldatum": "1991-09-18",
+    "belepesdatum": "2020-11-03",
+    "oraber": 3550,
+    "neme": "1"
+  },
+  {
+    "dolgozoid": 8,
+    "dnev": "Molnár Dóra",
+    "szuldatum": "1996-02-24",
+    "belepesdatum": "2022-05-17",
+    "oraber": 3250,
+    "neme": "2"
+  },
+  {
+    "dolgozoid": 9,
+    "dnev": "Fekete Tamás",
+    "szuldatum": "1985-04-10",
+    "belepesdatum": "2018-04-01",
+    "oraber": 4200,
+    "neme": "1"
+  },
+  {
+    "dolgozoid": 10,
+    "dnev": "Takács Eszter",
+    "szuldatum": "1999-09-05",
+    "belepesdatum": "2023-05-15",
+    "oraber": 3100,
+    "neme": "2"
+  }
+]
